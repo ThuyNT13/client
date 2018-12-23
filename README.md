@@ -1,5 +1,7 @@
 ## Resources used
 
+[Redux Form docs](https://redux-form.com)
+
 [**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
 
 [Google API Client Libraries - GoogleUser.getId()](https://developers.google.com/api-client-library/javascript/reference/referencedocs#googleusergetid)
