@@ -22,10 +22,10 @@ class GoogleAuth extends Component {
   };
 
   // no parentheses when invoking as it will immediately be called on page load
-  onSignIn = () => {
+  onClickSignIn = () => {
     this.auth.signIn();
   }
-  onSignOut = () => {
+  onClickSignOut = () => {
     this.auth.signOut();
   }
 
@@ -34,14 +34,14 @@ class GoogleAuth extends Component {
       return null;
     } else if (this.state.isSignedIn) {
       return (
-        <button className="ui red google button" onClick={this.onSignOut}>
+        <button className="ui red google button" onClick={this.onClickSignOut}>
           <i className="google icon" />
           Sign out
         </button>
       )
     } else {
       return (
-        <button className="ui red google button" onClick={this.onSignIn}>
+        <button className="ui red google button" onClick={this.onClickSignIn}>
           <i className="google icon" />
           Sign in
         </button>
