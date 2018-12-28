@@ -1,6 +1,8 @@
 import React from 'react';
 import { Component } from 'react';
 import { Field, reduxForm } from 'redux-form';
+import { connect } from 'react-redux';
+import { createStream } from '../../actions';
 
 class StreamNew extends Component {
   renderError({ error, touched }) {
@@ -26,8 +28,8 @@ class StreamNew extends Component {
     )
   }
 
-  onSubmit(formValues) {
-    console.log(formValues);
+  onSubmit = (formValues) => {
+    this.props.createStream(formValues);
     // onSubmit automatically runs preventDefault, so not necessary
     // event.preventDefault();
   }
@@ -65,7 +67,9 @@ const validate = (formValues) => {
   return errors;
 }
 
-export default reduxForm({
+const reduxFormWrapped = reduxForm({
   form: 'streamNew',
   validate: validate
 })(StreamNew);
+
+export default connect(null, { createStream })(reduxFormWrapped);
