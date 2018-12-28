@@ -10,3 +10,6 @@
 
 [**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
 
+[React Router 4: A Practical Introduction](https://auth0.com/blog/react-router-4-practical-tutorial/) (check out **Route Protection and Authentication**)
+
+[React tutorial: Building and Securing your first app](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/) (check out **Adding Features to Authenticated Users** section)
