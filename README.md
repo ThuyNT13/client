@@ -20,6 +20,8 @@
 
 [**flv.js**](https://www.npmjs.com/package/flv.js) - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash
 
+[**Open Broadcast Software**](https://obsproject.com) - for video recording and live streaming
+
 [**semantic-ui**](https://semantic-ui.com/) - UI component framework with [cdn here](https://cdnjs.com/libraries/semantic-ui)
 
 ## Security vulnerabilities
