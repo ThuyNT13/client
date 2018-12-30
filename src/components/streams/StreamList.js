@@ -26,7 +26,7 @@ class StreamList extends Component {
       ) 
     }
   }
-d
+
   renderList() {
     return this.props.streams.map((stream) => {
       return (
