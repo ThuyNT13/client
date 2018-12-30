@@ -1,16 +1,26 @@
 ## Resources used
 
-[**Redux Form** docs](https://redux-form.com)
+[**Redux**](https://redux.js.org/) - *state* container for **React**
+
+  - [**Redux Form** docs](https://redux-form.com) - for managing *form state* in **Redux**
+
+  - [**Redux Thunk**](https://github.com/reduxjs/redux-thunk) - middleware for **Redux**
+  
+[**react-router-dom**](https://www.npmjs.com/package/react-router-dom) - DOM binding for [**React-Router**](https://reacttraining.com/react-router/) declarative routing, programmatic navigation
+
+[**axios**](https://www.npmjs.com/package/axios) - HTTP client for the browser and node.js
+
+[**_.Lodash**](https://lodash.com/) - JavaScript utility library
+
+[**history**](https://www.npmjs.com/package/history) - JavaScript library for managing session history 
 
 [**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
 
-[Google API Client Libraries - GoogleUser.getId()](https://developers.google.com/api-client-library/javascript/reference/referencedocs#googleusergetid)
-
-> Do not use the Google IDs returned by getId() to communicate the currently signed in user to your backend server. Instead, [send ID tokens](https://developers.google.com/identity/sign-in/web/backend-auth), which can be securely validated on the server.
-
 [**Node-Media-Server**](https://github.com/illuspas/Node-Media-Server) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server 
 
-[**flv.js**](https://www.npmjs.com/package/flv.js) - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
+[**flv.js**](https://www.npmjs.com/package/flv.js) - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash
+
+[**semantic-ui**](https://semantic-ui.com/) - UI component framework with [cdn here](https://cdnjs.com/libraries/semantic-ui)
 
 ## Security vulnerabilities
 
@@ -20,9 +30,9 @@
 
 [Attackers hit weak spots in 2-Factor Authentication](https://krebsonsecurity.com/2012/06/attackers-target-weak-spots-in-2-factor-authentication/) from [KrebsonSecurity.com](https://krebsonsecurity.com).
 
-### Resources used
+[Google API Client Libraries - **GoogleUser.getId()**](https://developers.google.com/api-client-library/javascript/reference/referencedocs#googleusergetid)
 
-[**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
+> Do not use the Google IDs returned by getId() to communicate the currently signed in user to your backend server. Instead, [send ID tokens](https://developers.google.com/identity/sign-in/web/backend-auth), which can be securely validated on the server.
 
 [React Router 4: A Practical Introduction](https://auth0.com/blog/react-router-4-practical-tutorial/) (check out **Route Protection and Authentication**)
 
