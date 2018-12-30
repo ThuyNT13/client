@@ -1,12 +1,16 @@
 ## Resources used
 
-[Redux Form docs](https://redux-form.com)
+[**Redux Form** docs](https://redux-form.com)
 
 [**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
 
 [Google API Client Libraries - GoogleUser.getId()](https://developers.google.com/api-client-library/javascript/reference/referencedocs#googleusergetid)
 
 > Do not use the Google IDs returned by getId() to communicate the currently signed in user to your backend server. Instead, [send ID tokens](https://developers.google.com/identity/sign-in/web/backend-auth), which can be securely validated on the server.
+
+[**Node-Media-Server**](https://github.com/illuspas/Node-Media-Server) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server 
+
+[**flv.js**](https://www.npmjs.com/package/flv.js) - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
 
 ## Security vulnerabilities
 
