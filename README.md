@@ -16,13 +16,15 @@
 
 [**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
 
-[**Node-Media-Server**](https://github.com/illuspas/Node-Media-Server) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server 
-
-[**flv.js**](https://www.npmjs.com/package/flv.js) - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash
-
-[**Open Broadcast Software**](https://obsproject.com) - for video recording and live streaming
-
 [**semantic-ui**](https://semantic-ui.com/) - UI component framework with [cdn here](https://cdnjs.com/libraries/semantic-ui)
+
+#### for video streaming: 
+
+- [**Node-Media-Server**](https://github.com/illuspas/Node-Media-Server) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server 
+
+- [**flv.js**](https://www.npmjs.com/package/flv.js) - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash
+
+- [**Open Broadcast Software**](https://obsproject.com) - for video recording and live streaming
 
 ## Security vulnerabilities
 
