@@ -12,10 +12,10 @@ class StreamNew extends Component {
 
   render() {
     return (
-      <div>
+      <article>
         <h3>Create a Stream</h3>
         <StreamForm onSubmit={this.onSubmit} />
-      </div>
+      </article>
     );
   }
 }
