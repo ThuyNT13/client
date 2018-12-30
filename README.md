@@ -1,5 +1,7 @@
 ## Resources used
 
+[Redux Form docs](https://redux-form.com)
+
 [**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
 
 [Google API Client Libraries - GoogleUser.getId()](https://developers.google.com/api-client-library/javascript/reference/referencedocs#googleusergetid)
@@ -14,3 +16,10 @@
 
 [Attackers hit weak spots in 2-Factor Authentication](https://krebsonsecurity.com/2012/06/attackers-target-weak-spots-in-2-factor-authentication/) from [KrebsonSecurity.com](https://krebsonsecurity.com).
 
+### Resources used
+
+[**Google API Client Libraries** JavaScript docs](https://developers.google.com/api-client-library/javascript/reference/referencedocs)
+
+[React Router 4: A Practical Introduction](https://auth0.com/blog/react-router-4-practical-tutorial/) (check out **Route Protection and Authentication**)
+
+[React tutorial: Building and Securing your first app](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/) (check out **Adding Features to Authenticated Users** section)
