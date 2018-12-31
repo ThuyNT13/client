@@ -1,3 +1,5 @@
+See [Wiki](https://github.com/ThuyNT13/client/wiki) for setting up **RTMP server** and **JSON Server API** for this project.
+
 ## Resources used
 
 [**Redux**](https://redux.js.org/) - *state* container for **React**
