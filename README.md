@@ -1,4 +1,6 @@
-See [Wiki](https://github.com/ThuyNT13/client/wiki) for setting up **RTMP server** and **JSON Server API** for this project.
+See [Wiki](https://github.com/ThuyNT13/client/wiki) for setting up [**RTMP server**](https://github.com/ThuyNT13/client/wiki/Real-Time-Messaging-Protocol-(RTMP)-server) and [**JSON Server API**](https://github.com/ThuyNT13/client/wiki/JSON-Server-API) for this project.
+
+[Network errors](https://github.com/ThuyNT13/client/issues/2) might occurr if you forget to run all servers.
 
 ## Resources used
 
